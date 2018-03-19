@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: b32e5046670e311498f686774c9da4d9
+timeCreated: 1507734808
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: 12LotteMartDreamLight
+  fontNames:
+  - 12LotteMartDreamLight
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

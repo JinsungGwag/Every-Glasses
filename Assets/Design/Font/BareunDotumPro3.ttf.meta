@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 8832c58c9d1f123408ef9c463da0ea9d
+timeCreated: 1505299824
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: BareunDotumPro
+  fontNames:
+  - BareunDotumPro
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

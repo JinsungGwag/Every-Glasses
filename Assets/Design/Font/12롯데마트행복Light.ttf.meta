@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 2b13cfef2ab99004991f30845d9f1386
+timeCreated: 1507734746
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: 12LotteMartHLight
+  fontNames:
+  - 12LotteMartHLight
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
